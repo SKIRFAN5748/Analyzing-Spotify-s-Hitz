@@ -1,1 +1,7 @@
-The "Analyzing Spotify's Hitz" project aims to delve into the characteristics and trends of popular tracks on Spotify. By leveraging Spotify's extensive dataset of music streams, this project explores what makes a song a hit on the platform. From genre analysis to popularity trends over time, the project seeks to uncover patterns and insights that contribute to a song's success on Spotify.
+The "Analyzing Spotify's Hitz" project analyzes popular tracks' characteristics and trends, utilizing Spotify's extensive dataset to uncover genre analysis and popularity trends over time.
+
+This study collects data from Spotify's API or available datasets on top tracks, artists, genres, and popularity metrics. It performs exploratory data analysis to identify correlations and trends among top tracks. Visual representations are created to illustrate findings. Key findings are summarized, and future work suggests predictive modeling or sentiment analysis.
+
+Technologies Used 
+Python for data analysis and visualization (libraries such as Pandas, Matplotlib, Seaborn)
+Jupyter Notebook for interactive data exploration and documentation
